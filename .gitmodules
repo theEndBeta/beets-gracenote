@@ -1,0 +1,3 @@
+[submodule "beetsplug/pygn"]
+	path = beetsplug/pygn
+	url = git@github.com:cweichen/pygn.git
